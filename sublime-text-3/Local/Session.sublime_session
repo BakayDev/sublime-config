@@ -1,0 +1,569 @@
+{
+	"folder_history":
+	[
+		"/workspace/development/laravel/web-practice/front/src",
+		"/workspace/apps/bson/backend/app",
+		"/workspace/apps/bson/frontend/src/app",
+		"/workspace/development/laravel/web-practice",
+		"/workspace/apps/bson",
+		"/home/b/Загрузки/breeze/kdecoration",
+		"/workspace/apps/frontend"
+	],
+	"last_version": 3211,
+	"last_window_id": 2,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"in",
+						"include"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/b/Рабочий стол/Текстовый файл",
+					"settings":
+					{
+						"buffer_size": 1779,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/workspace/apps/bson/backend/config/app.php",
+					"settings":
+					{
+						"buffer_size": 9303,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/workspace/development/laravel/web-practice/front/src",
+				"/workspace/development/laravel/web-practice/front/src/app",
+				"/workspace/development/laravel/web-practice/front/src/app/services"
+			],
+			"file_history":
+			[
+				"/workspace/apps/bson/backend/config/services.php",
+				"/workspace/apps/bson/backend/app/Http/Controllers/AuthController.php",
+				"/home/b/Рабочий стол/comm",
+				"/home/b/Загрузки/68583_wander-html_v112/Wander/HTML/features-grid.html",
+				"/workspace/development/laravel/web-practice/front/nginx/www.conf",
+				"/home/b/Рабочий стол/nginx/sites-enabled/my-blog.conf",
+				"/workspace/development/laravel/laravel-vue-spa/resources/js/pages/settings/profile.vue",
+				"/home/b/Рабочий стол/Текстовый файл",
+				"/workspace/apps/bson/backend/app/Http/Resources/AuthResource.php",
+				"/workspace/apps/bson/backend/app/Http/Middleware/JwtTokenMiddleware.php",
+				"/workspace/development/laravel/realworld/.env.example",
+				"/workspace/development/laravel/web-practice/front/src/app/services/auth.service.ts",
+				"/workspace/development/laravel/start/.env",
+				"/etc/nginx/sites-available/my-blog.conf",
+				"/etc/nginx/sites-enabled/my-blog.conf",
+				"/home/b/Рабочий стол/hosts",
+				"/workspace/apps/bson/frontend/src/app/auth/sign-up/sign-up.component.html",
+				"/workspace/development/laravel/web-practice/front/src/app/auth/sign-in/sign-in.component.html",
+				"/workspace/apps/bson/backend/routes/api.php",
+				"/workspace/apps/bson/frontend/src/app/auth/sign-in/sign-in.component.ts",
+				"/workspace/apps/bson/frontend/src/app/auth/sign-in/sign-in.component.html",
+				"/workspace/apps/bson/backend/database/migrations/2019_09_23_083319_create_oauth_providers_table.php",
+				"/home/b/Загрузки/68583_wander-html_v112/Wander/HTML/shop-checkout.html",
+				"/home/b/Загрузки/68583_wander-html_v112/Wander/HTML/features-alerts.html",
+				"/home/b/Загрузки/68583_wander-html_v112/Wander/HTML/js/scripts.js",
+				"/home/b/Загрузки/68583_wander-html_v112/Wander/HTML/home-blog.html",
+				"/home/b/Загрузки/68583_wander-html_v112/Wander/HTML/css/plugins.css",
+				"/home/b/Рабочий стол/ICCup Launcher.desktop",
+				"/home/b/Загрузки/68583_wander-html_v112/Wander/HTML/css/theme.css",
+				"/workspace/development/laravel/web-practice/front/src/app/app-routing.module.ts",
+				"/workspace/development/laravel/web-practice/front/src/app/app.module.ts",
+				"/workspace/development/laravel/web-practice/front/src/app/api.service.ts",
+				"/workspace/apps/bson/backend/app/Http/Kernel.php",
+				"/workspace/apps/bson/backend/.env",
+				"/workspace/apps/bson/backend/composer.json",
+				"/workspace/development/laravel/demo-board/database/migrations/2018_03_25_183121_add_networks_auth.php",
+				"/workspace/development/laravel/demo-board/app/Entity/User/User.php",
+				"/workspace/development/laravel/web-practice/docker-compose.base.yml",
+				"/workspace/development/laravel/demo-board/docker/php-fpm.docker",
+				"/workspace/development/laravel/blog/docker/php/Dockerfile",
+				"/workspace/development/laravel/demo-board/docker/nginx.docker",
+				"/workspace/development/laravel/web-practice/api/docker/php/Dockerfile",
+				"/workspace/development/laravel/demo-board/docker-compose.yml",
+				"/workspace/development/laravel/blog/docker-compose.yml",
+				"/workspace/development/laravel/demo-board/docker/php-cli.docker",
+				"/workspace/development/laravel/blog/docker/nginx/www.conf",
+				"/workspace/development/laravel/blog/docker/php/php.ini",
+				"/workspace/development/laravel/blog/docker/php/composer-install.sh",
+				"/home/b/.IntelliJIdea2019.2/config/idea64.vmoptions",
+				"/home/b/.local/share/applications/jetbrains-idea.desktop",
+				"/home/b/.zshrc",
+				"/home/b/.profile",
+				"/workspace/development/spring/realworld/docker-compose.yml",
+				"/home/b/Рабочий стол/nginx/nginx/sites-enabled/bson.conf",
+				"/etc/php/php.ini",
+				"/home/b/.bashrc",
+				"/usr/share/applications/vlc.desktop",
+				"/workspace/development/laravel/web-practice/api/docker/php/composer-install.sh",
+				"/etc/nginx/sites-enabled/bson.conf",
+				"/etc/nginx/nginx.conf",
+				"/run/media/b/fbd7e022-92fd-4f97-8a7b-4c2315f2eafa/etc/nginx/nginx.conf",
+				"/etc/nginx/sites-available/phpmyadmin.conf",
+				"/workspace/development/laravel/laravel-demo-board/docker/nginx.docker",
+				"/home/b/.ssh/id_rsa.pub",
+				"/home/b/Загрузки/[Дмитрий Елисеев] Мастер-класс по разработке менеджера проектов на Symfony/resource.txt",
+				"/workspace/development/laravel/laravel-demo-board/docker/php-cli.docker",
+				"/workspace/development/laravel/laravel-demo-board/docker/php-fpm.docker",
+				"/home/b/.zshrc.pre-oh-my-zsh",
+				"/home/b/.oh-my-zsh/oh-my-zsh.sh",
+				"/home/b/.bash_profile",
+				"/home/b/.bash_history",
+				"/home/b/.ssh/id_rsa",
+				"/home/b/.local/share/applications/jetbrains-phpstorm.desktop",
+				"/home/b/Загрузки/breeze/kdecoration/breezedecoration.cpp",
+				"/home/b/Загрузки/breeze/kdecoration/breezebutton.cpp",
+				"/home/b/Рабочий стол/server.sh",
+				"/home/b/Рабочий стол/nginx/sites-available/phpmyadmin.conf",
+				"/home/b/Рабочий стол/nginx/sites-enabled/bson.conf",
+				"/run/media/b/D8D8BBA0D8BB7AF8/Users/gamem/Desktop/Новый текстовый документ.txt",
+				"/home/b/.IntelliJIdea2019.1/config/icons/nodes/sourceFolder.svg",
+				"/home/b/.IntelliJIdea2019.1/config/icons/nodes/package_dark.svg",
+				"/usr/share/applications/jetbrains-idea.desktop",
+				"/home/b/.IntelliJIdea2019.1/config/plugins/Material Theme/lib/icons/nodes/package_dark.svg",
+				"/home/b/.IntelliJIdea2019.1/config/plugins/Material Theme/lib/icons/nodes/upLevel.svg",
+				"/run/media/b/48F44218F4420920/com/cc/nginx.main",
+				"/run/media/b/48F44218F4420920/com/cc/server.sh",
+				"/run/media/b/48F44218F4420920/com/command",
+				"/run/media/b/48F44218F4420920/com/cc/comm",
+				"/run/media/b/48F44218F4420920/com/cc/b-server",
+				"/run/media/b/48F44218F4420920/com/lol.sh",
+				"/run/media/b/48F44218F4420920/com/cc/lar comm",
+				"/run/media/b/48F44218F4420920/theme/parser/diesel.php",
+				"/run/media/b/48F44218F4420920/theme/parser1/diesel.php",
+				"/run/media/b/48F44218F4420920/theme/parser/index.php",
+				"/run/media/b/48F44218F4420920/theme/parser1/zip/diesel.php",
+				"/run/media/b/48F44218F4420920/theme/parser1/output.php",
+				"/workspace/apps/frontend/src/boot/axios.js",
+				"/workspace/apps/bson/app/package.json",
+				"/home/b/Загрузки/bson-master/frontend/package.json",
+				"/workspace/apps/frontend/package.json",
+				"/workspace/apps/bson/frontend/package.json",
+				"/workspace/apps/bson/frontend/quasar.conf.js",
+				"/etc/elasticsearch/jvm.options",
+				"/run/media/b/48F44218F4420920/[Дмитрий Елисеев] Интернет-магазина на Yii2 (2017)/yii2-demo-shop-master/vagrant/provision/once-as-root.sh",
+				"/run/media/b/48F44218F4420920/[Дмитрий Елисеев] Интернет-магазина на Yii2 (2017)/yii2-demo-shop-master/vagrant/provision/always-as-root.sh",
+				"/etc/elasticsearch/jvm.options.pacsave",
+				"/etc/elasticsearch/elasticsearch.yml",
+				"/etc/elasticsearch/elasticsearch.keystore",
+				"/etc/php/php-fpm.d/www.conf",
+				"/home/b/Рабочий стол/nginx/nginx.conf",
+				"/workspace/apps/bson/backend/log/error.log",
+				"/run/media/b/48F44218F4420920/com/cc/sites-available/bson.conf",
+				"/etc/php/php-fpm.conf",
+				"/run/media/b/48F44218F4420920/com/cc/sites-available/spa.loc",
+				"/run/media/b/48F44218F4420920/com/cc/sites-available/html.conf",
+				"/workspace/apps/bson/frontend/dist/pwa/manifest.json",
+				"/workspace/apps/bson/frontend/dist/pwa/service-worker.js",
+				"/workspace/apps/bson/frontend/dist/pwa/index.html",
+				"/home/b/Рабочий стол/nginx/sites-available/html.conf",
+				"/home/b/Рабочий стол/nginx/sites-available/bson.conf",
+				"/etc/nginx/ssl/bson.crt",
+				"/etc/nginx/ssl/bson.key",
+				"/home/b/Рабочий стол/nginx/sites-enabled/localhost.crt",
+				"/run/media/b/48F44218F4420920/com/cc/nginx.conf",
+				"/etc/hosts",
+				"/usr/share/applications/jetbrains-phpstorm.desktop",
+				"/usr/share/applications/hp-uiscan.desktop",
+				"/home/b/.dir_colors"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+					"/workspace/development/laravel/web-practice/front/src"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"useClass: HashLocationStrategy",
+					"back-to-top",
+					"bac",
+					"js",
+					"mysql",
+					"pdo",
+					"localhost",
+					"80",
+					"                case DecorationButtonType::Maximize:\n",
+					"mysqli",
+					"mysqli ",
+					" $count++;",
+					"   return require_once __DIR__ . ",
+					"service",
+					"pdo"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/workspace/development/laravel/web-practice/front/src"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/b/Рабочий стол/Текстовый файл",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1779,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/workspace/apps/bson/backend/config/app.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9303,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3542.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.doc":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,100,910,588,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 381.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
